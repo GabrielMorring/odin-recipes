@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is a simple recipe website to practice basic HTML. 
+This is a simple recipe website to practice basic HTML and CSS.
